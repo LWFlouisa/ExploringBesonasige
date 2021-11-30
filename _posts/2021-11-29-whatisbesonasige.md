@@ -4,6 +4,8 @@ author: SRWeaver BesonasigaArutisana
 tags: besonasiga
 layout: post
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2PDsSAgKigE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Besonasige, or the descendant of “Enovos Shikomos” created by left-wing insurrectionists, are descended from the American lineage of manga. But there are a number of differences that makes them not the same thing:
 
 Manga is generally published in monochrome, this stems from a history of using recycled paper and publishing content in anthology magazines. Besonasige is largely published in selective color, with monochrome content being used as a storytelling device.
