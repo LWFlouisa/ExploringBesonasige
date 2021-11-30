@@ -4,7 +4,7 @@ author: SRWeaver BesonasigaArutisana
 tags: besonasiga
 layout: post
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2PDsSAgKigE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" title="Exploring Besonasige: What Is Besonasige" src="https://video.ploud.jp/videos/embed/8c319642-ca72-48de-9c88-ebc187a5b70e" frameborder="0" allowfullscreen></iframe>
 
 Besonasige, or the descendant of “Enovos Shikomos” created by left-wing insurrectionists, are descended from the American lineage of manga. But there are a number of differences that makes them not the same thing:
 
