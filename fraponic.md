@@ -38,144 +38,144 @@ onas - a plural
 ## Family ( Os Sfamiyos )
 Words for family descended from French.
 
-pede - Father
-mede - Mother
-sferede - Brother
-sfude - Sister
-cusfijere - Male Cousin
-cusfijera - Female Cousin
-cusfijeres - Both Cousins
-tanite - Aunt
-oji - Uncle
+pede - Father<br />
+mede - Mother<br />
+sferede - Brother<br />
+sfude - Sister<br />
+cusfijere - Male Cousin<br />
+cusfijera - Female Cousin<br />
+cusfijeres - Both Cousins<br />
+tanite - Aunt<br />
+oji - Uncle<br />
 
 ## Nouns With One Version
-besonasige - The sequential art form descended from Shinkoma and left wing anarchist culture that became the default comics medium, with Four Frame Novels ( Enovo Shinkoma ) being a prototype. Unlike manga, focuses on sequential art with a mixture of western and Japanese brushes, pens, and inks following “hard and soft” pattern. The term itself is derived from “Besong Shige” or recited poetry.
-otonarubame - A comics album intended exclusively for adults.
-Sfuraponiqihe - A fusion of western Feather brush, Sumi brush, and Native American patterns. Is used to create baroque manuscripts torward the beginning of the O Raphael saga.
-alien, ghost, creature - eseneropa - enitotes sonite ni relite pesa.
-Etatunojinega - American “Gaijin” / Not American
-weaver - tisoranede
-dream - reve
-knife - cuto
-key - cere
-chair - xase
-tankobon - tankobon
-myth - michite
-galley - gahe
-gale - gahene
-consideration - koroyo
-express - toko
-highland - hadajo
-macadamia - makadama
-monotheism - ishiniko
-polytheism - tasfijo
-atheism - musilijero
-pain - itami
-alarm - kilo
-nekurofiria - enekurofire
-hematolagna - elamatoragune
-robosexuality - robosekusurite
-sexuality - sekusurite
-appetite - apetite
-applause - hakusu
-basket - basukete
-basukete di giroxn - guillotine basket ( rude )
-batch - gerope
-bundle - banidoru
-cave - sfavare
-cabin - sfabine
+besonasige - The sequential art form descended from Shinkoma and left wing anarchist culture that became the default comics medium, with Four Frame Novels ( Enovo Shinkoma ) being a prototype. Unlike manga, focuses on sequential art with a mixture of western and Japanese brushes, pens, and inks following “hard and soft” pattern. The term itself is derived from “Besong Shige” or recited poetry.<br />
+otonarubame - A comics album intended exclusively for adults.<br />
+Sfuraponiqihe - A fusion of western Feather brush, Sumi brush, and Native American patterns. Is used to create baroque manuscripts torward the beginning of the O Raphael saga.<br />
+alien, ghost, creature - eseneropa - enitotes sonite ni relite pesa.<br />
+Etatunojinega - American “Gaijin” / Not American<br />
+weaver - tisoranede<br />
+dream - reve<br />
+knife - cuto<br />
+key - cere<br />
+chair - xase<br />
+tankobon - tankobon<br />
+myth - michite<br />
+galley - gahe<br />
+gale - gahene<br />
+consideration - koro<br />
+express - toko<br />
+highland - hadajo<br />
+macadamia - makadama<br />
+monotheism - ishiniko<br />
+polytheism - tasfijo<br />
+atheism - musilijero<br />
+pain - itami<br />
+alarm - kiho<br />
+nekurofiria - enekurofire<br />
+hematolagna - elamatoragune<br />
+robosexuality - robosekusurite<br />
+sexuality - sekusurite<br />
+appetite - apetite<br />
+applause - hakusu<br />
+basket - basukete<br />
+basukete di giroxn - guillotine basket ( rude )<br />
+batch - gerope<br />
+bundle - banidoru<br />
+cave - sfavare<br />
+cabin - sfabine<br />
 
 ## Nouns With Two Versions
-atmosphere - atimosipilere ( polite ) or funiki ( casual )
-bolt - boruto ( casual ) or verohe ( polite )
-caterpillar - xehene ( polite ) or kytapira ( casual )
+atmosphere - atimosipilere ( polite ) or funiki ( casual )<br />
+bolt - boruto ( casual ) or verohe ( polite )<br />
+caterpillar - xehene ( polite ) or kytapira ( casual )v
 
 ## Adjectives With One Version
-batch - ebax
-shiny - beloyan
-rusty - uchay
-brown - berane
-black - enere
-tell - pahe
-visualized - visarize
-windy - venituse
-careful - kiwotsukero
-hairy - kebuka
-worshiping - sula
-hanging - kosatasu
-working - hatadake
-excruciating - ateroce
-affordable - aboradaberu
-settable - regarabehe
-artistic - arutesiqe
-bashful - etimire
+batch - ebax<br />
+shiny - beloyan<br />
+rusty - uchay<br />
+brown - berane<br />
+black - enere<br />
+tell - pahe<br />
+visualized - visarize<br />
+windy - venituse<br />
+careful - kiwotsukero<br />
+hairy - kebuka<br />
+worshiping - suha<br />
+hanging - kosatasu<br />
+working - hatadake<br />
+excruciating - ateroce<br />
+affordable - aboradaberu<br />
+settable - regarabehe<br />
+artistic - arutesiqe<br />
+bashful - etimire<br />
 
 ## Adjectives With Two Versions
-alone - eseru ( polite ) or hitori ( rude )
+alone - eseru ( polite ) or hitori ( rude )<br />
 
 ## Conjucations And Prepositions
-of - di
-ne - ni
-it - si
-is - isi
-at, to - ow
-of - axo
-am - swa
-some - esoma
-for - peru
-from - di
-how - somene
-where - uu
-who - qi
-than - qo
-this - qe
-when - qunida
-what - cero
-with - ves
-some ( unspecific ) - dez
-are - sonite
-to be - etere
-at this - oqe
+of - di<br />
+ne - ni<br />
+it - si<br />
+is - isi<br />
+at, to - ow<br />
+of - axo<br />
+am - swa<br />
+some - esoma<br />
+for - peru<br />
+from - di<br />
+how - somene<br />
+where - uu<br />
+who - qi<br />
+than - qo<br />
+this - qe<br />
+when - qunida<br />
+what - cero<br />
+with - ves<br />
+some ( unspecific ) - dez<br />
+are - sonite<br />
+to be - etere<br />
+at this - oqe<br />
 
 ## Verbs With One Version
-get - eru
-cuts - cupo
-unlocks - uvere
-sit - asochi
-reads - lisoje
-recite - decite
-blow - sufere
-showing - exipoze
-decide - kimeru
-roar - hoko
-ache - uzuke
-adjust - xosfe
-ring - yubiwa
-attach - atachi
-behave - furuma
-belong - zokusuru
-blink - cerine
-bundle - konitoru
-cave - erokute
-will - vohonite
+get - eru<br />
+cuts - cupo<br />
+unlocks - uvere<br />
+sit - asochi<br />
+reads - lisoje<br />
+recite - decite<br />
+blow - sufere<br />
+showing - exipoze<br />
+decide - kimeru<br />
+roar - hoko<br />
+ache - uzuke<br />
+adjust - xosfe<br />
+ring - yubiwa<br />
+attach - atachi<br />
+behave - furuma<br />
+belong - zokusuru<br />
+blink - cerine<br />
+bundle - konitoru<br />
+cave - erokute<br />
+will - vohonite<br />
 
 ## Verbs With Two Versions
-apology - exusfe ( rude ) or salaza ( polite )
-bend - eperi ( polite ) or mageru ( rude )
-blush - eroge ( rude ) or sekimen ( polite )
-borrow - emiperunite ( polite ) or karite ( casual )
+apology - exusfe ( rude ) or salaza ( polite )<br />
+bend - eperi ( polite ) or mageru ( rude )<br />
+blush - eroge ( rude ) or sekimen ( polite )<br />
+borrow - emiperunite ( polite ) or karite ( casual )<br />
 
 ## Adverbs
-swiftly - vite
-slowly - hente
-quietly - mute
-funnily - dolemente
-precise - pedecise
-imprecise - mopedecise
-briskly - vivemeje
-decisively - ketasuzejo
-loudly - dusa
-painfully - terebereme
+swiftly - vite<br />
+slowly - hente<br />
+quietly - mute<br />
+funnily - dolemente<br />
+precise - pedecise<br />
+imprecise - mopedecise<br />
+briskly - vivemeje<br />
+decisively - ketasuzejo<br />
+loudly - dusa<br />
+painfully - terebereme<br />
 
 ## Os Pubaciberos
 ### Os Demogurasfiqos
