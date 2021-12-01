@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-![page eleven uploaded fairy](https://raw.githubusercontent.com/LWFlouisa/UploadedFairy/main/pages/pagetest11.png)
+![page eleven uploaded fairy](https://raw.githubusercontent.com/LWFlouisa/ExploringBesonasige/main/images/etatunojinega.jpg)
 
 <i>Besonasige is a super of "constructed language" comics.</i>
 
