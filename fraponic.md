@@ -6,7 +6,7 @@ title: Fraponic
 Fraponic is a constructed language in the Franconic family with considerable Japanese vocabulary.
 
 ## Art Style
-Ejavodasfabota - Literally "En volant sabots, le Terra.", came to mean a fusion of Western and Eastern drawing techniques evolving beyond "Nouvelle Manga" into its own style: It mimmicks Ukyo-E but confined to modern American cities colonized by the French. Its distinction is in preferring a range of hardness and softness based on a range of inks between Bistre and India Ink. The primary footware is French sabots do to the rarity of leather and rubber reserved for the assymetric Franco-Japanese wars.
+Ejavosfabotera - Literally "En volant sabots, le Terra.", came to mean a fusion of Western and Eastern drawing techniques evolving beyond "Nouvelle Manga" into its own style: It mimmicks Ukyo-E but confined to modern American cities colonized by the French. Its distinction is in preferring a range of hardness and softness based on a range of inks between Bistre and India Ink. The primary footware is French sabots do to the rarity of leather and rubber reserved for the assymetric Franco-Japanese wars.
 
 ## Personal Pronouns
 Personal pronouns are the pronouns one refers to oneself.
