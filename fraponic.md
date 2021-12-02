@@ -7,8 +7,11 @@ Fraponic is a constructed language in the Franconic family with considerable Jap
 
 ## Art Style
 Ejavosfabotera ( EFA ) - Literally "En volant sabots, le Terra.", came to mean a fusion of Western and Eastern drawing techniques evolving beyond "Nouvelle Manga" into its own style: It mimmicks Ukyo-E but confined to modern American cities colonized by the French. Its distinction is in preferring a range of hardness and softness based on a range of inks between Bistre and India Ink. The primary footware is French sabots do to the rarity of leather and rubber reserved for the assymetric Franco-Japanese wars.
+
 besonasige - The sequential art form descended from Shinkoma and left wing anarchist culture that became the default comics medium, with Four Frame Novels ( Enovo Shinkoma ) being a prototype. Unlike manga, focuses on sequential art with a mixture of western and Japanese brushes, pens, and inks following “hard and soft” pattern. The term itself is derived from “Besong Shige” or recited poetry.<br />
+
 otonarubame - A comics album intended exclusively for adults.<br />
+
 Sfuraponiqihe - A fusion of western Feather brush, Sumi brush, and Native American patterns. Is used to create baroque manuscripts torward the beginning of the O Raphael saga.<br />
 
 ## Personal Pronouns
